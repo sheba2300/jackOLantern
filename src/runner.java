@@ -15,15 +15,13 @@ public class runner {
         jack.edit("~", 0,2);
         jack.edit("~", 0,3);
         jack.edit("0", 1,1);
-        jack.edit("~", 1,3);
-        jack.edit("~", 2,1);
+        jack.edit("0", 1,3);
         jack.edit("~", 0,0);
-
-
-
-
-
-
+        jack.edit("~", 0,1);
+        jack.edit("~", 0,2);
+        jack.edit("~", 0,3);
+        jack.edit("~", 0,4);
+        jack.toString();
 
 
 
